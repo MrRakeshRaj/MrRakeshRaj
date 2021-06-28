@@ -15,3 +15,8 @@ Leveraging responsive design to catapult Business growth | Software Engineer | W
 <img align="left" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <br>
 <br>
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
