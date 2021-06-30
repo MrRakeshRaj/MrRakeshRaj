@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hey 👋
 Leveraging responsive design to catapult Business growth | Software Engineer | Web Developer | UI/UX.
 
 - A logical and creative Thinker who enjoys learning new languages, frameworks, and technologies in general, excited to be a part of the technology industry, and my outstanding organizational skills will play an essential role to keep code DRY and as re-factored as possible. The satisfaction of solving problems is what drives me to be a better programmer. A business background combines with the entrepreneurial spirit can be utilized for aligning profitable goals when programming. Passionate about travel, the outdoors, film, exercising, meeting new people, and exploring the world.
