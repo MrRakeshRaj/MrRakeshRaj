@@ -21,9 +21,11 @@ Leveraging responsive design to catapult Business growth | Software Engineer | W
  
 <!-- BLOG-POST-LIST:END -->
 
+[![Rocky's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRakeshRaj&theme=blue-green)](https://github.com/MrRakeshRaj/github-readme-stats)
+
+
 [![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=MrRakeshRaj&theme=blue-green)](https://github.com/MrRakeshRaj/github-readme-stats)
 
-[![Rocky's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRakeshRaj&theme=blue-green)](https://github.com/MrRakeshRaj/github-readme-stats)
 
 [![Rocky's github streak](https://github-readme-streak-stats.herokuapp.com/?user=MrRakeshRaj&theme=blue-green)](https://github.com/MrRakeshRaj/github-readme-stats)
 
