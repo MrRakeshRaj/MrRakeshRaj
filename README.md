@@ -20,3 +20,15 @@ Leveraging responsive design to catapult Business growth | Software Engineer | W
 <!-- BLOG-POST-LIST:START -->
  
 <!-- BLOG-POST-LIST:END -->
+
+[![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/MrRakeshRaj/github-readme-stats)
+
+[![Rocky's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/MrRakeshRaj/github-readme-stats)
+
+[![Rocky's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/MrRakeshRaj/github-readme-stats)
+
+
+
+
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+
