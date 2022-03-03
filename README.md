@@ -1,8 +1,8 @@
 ### Hello People 👋
-Leveraging responsive design to catapult Business growth | Software Engineer | Web Developer | UI/UX.
+Leveraging responsive design to catapult Business growth | Software Engineer | Web Developer.
 
 - A logical and creative Thinker who enjoys learning new languages, frameworks, and technologies in general, excited to be a part of the technology industry, and my outstanding organizational skills will play an essential role to keep code DRY and as re-factored as possible. The satisfaction of solving problems is what drives me to be a better programmer. A business background combines with the entrepreneurial spirit can be utilized for aligning profitable goals when programming. Passionate about travel, the outdoors, film, exercising, meeting new people, and exploring the world.
-- Skills/Interests: Javascript, Node, React, Redux, Webpack/Babel, StyledComponents, CSS, HTML, Git,GitHub, MySQL.<br>
+- Skills/Interests: Javascript, Vue, React, Node, MERN, JAM, ML, AI <br>
 ### Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mrrakeshraj/)<br>
 <br>
