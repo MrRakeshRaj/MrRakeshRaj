@@ -40,12 +40,12 @@ I vividly recall the sensations of control and power I had after executing the c
     <img alt="Nuxt JS" src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 </p>
 
----
+<br>
 
 ## 📝 Latest Blog Posts
 
 
----
+<br>
 ## 📈 GitHub Stats
 
 <p align="center">
