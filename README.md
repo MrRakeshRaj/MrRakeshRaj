@@ -1,11 +1,19 @@
-## Hi World 👋
-![Banner Image](https://media.giphy.com/media/K8a9MxoUxuXxy5BkhI/giphy.gif)
+<h1 align="center">Hi World 👋</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/K8a9MxoUxuXxy5BkhI/giphy.gif">
+</p>
 
+<p align="center">
 Leveraging responsive design to catapult Business growth.
 I vividly recall the sensations of control and power I had after executing the code I copied from a website to complete a game. It was curiosity that motivated me to start coding. I love the entire process of developing creative websites, the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. A business background combines with the entrepreneurial spirit can be utilized for aligning profitable goals when programming. Passionate about travel, the outdoors, film, exercising, meeting new people, and exploring the world.
+</p>
 
-[![Linkedin: Rocky](https://img.shields.io/badge/-Rocky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrrakeshraj/)](https://www.linkedin.com/in/mrrakeshraj/)
-![Twitter Follow](https://img.shields.io/twitter/follow/Mr_RakeshRaj?style=social)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrrakeshraj/"><img src="https://img.shields.io/badge/-Rocky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrrakeshraj/"></a>
+</p>
+<p align="center">
+  <a href="https://twitter.com/Mr_RakeshRaj"><img src="https://img.shields.io/twitter/follow/Mr_RakeshRaj?style=social"></a>
+</p>
 
 ---
 
@@ -42,7 +50,7 @@ I vividly recall the sensations of control and power I had after executing the c
 
 <p align="center">
 <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRakeshRaj&theme=blue-green">
-<img align=right src="https://github-readme-stats.vercel.app/api?username=MrRakeshRaj&show_icons=true&theme=radical">
+<img align= src="https://github-readme-stats.vercel.app/api?username=MrRakeshRaj&show_icons=true&theme=radical">
 </p>
 
 <br>
