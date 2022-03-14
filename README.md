@@ -1,14 +1,6 @@
 <p align="center">
-  <a href="https://www.mrrakeshraj.dev/" target="_blank" rel="noreferrer" <img width=”200" height=”200" src=”https://wallpaperstock.net/wallpapers/thumbs1/44077wide.png" alt=”my banner"></a>
+  <a href="https://www.mrrakeshraj.dev/" target="_blank" rel="noreferrer" <img width=”200" height=”200" src=”https://media.giphy.com/media/K8a9MxoUxuXxy5BkhI/giphy.gif" alt=”my banner"></a>
 </p>
-
-<h3 align="center">
-Hello People, I'm <a href="https://www.mrrakeshraj.dev/" target="_blank" rel="noreferrer">Rocky</a> 👋
-</h3>
-
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻 and Software Engineer ⚙️
-</h2>
 
 Leveraging responsive design to catapult Business growth.
 I vividly recall the sensations of control and power I had after executing the code I copied from a website to complete a game. It was curiosity that motivated me to start coding. I love the entire process of developing creative websites, the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. A business background combines with the entrepreneurial spirit can be utilized for aligning profitable goals when programming. Passionate about travel, the outdoors, film, exercising, meeting new people, and exploring the world.
