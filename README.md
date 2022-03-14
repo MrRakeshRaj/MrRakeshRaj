@@ -1,6 +1,6 @@
-<h1 align="center">Hi World 👋</h1>
+<h1 align="center">Hello World 👋</h1>
 <p align="center">
-  <img  width="800" height="400" src="https://media.giphy.com/media/K8a9MxoUxuXxy5BkhI/giphy.gif">
+  <img src="https://media.giphy.com/media/K8a9MxoUxuXxy5BkhI/giphy.gif">
 </p>
 
 <p align="center">
