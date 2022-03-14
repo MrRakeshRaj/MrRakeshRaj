@@ -25,6 +25,7 @@ I vividly recall the sensations of control and power I had after executing the c
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+---
 
 ### 💼 Technical Skills
 <p align="center">
@@ -35,10 +36,8 @@ I vividly recall the sensations of control and power I had after executing the c
 <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<br>
-<br>
-<img align="left" alt="Vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img align="left" alt="Nuxt JS" src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+<img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img alt="Nuxt JS" src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 </p>
 
 <br>
@@ -50,7 +49,7 @@ I vividly recall the sensations of control and power I had after executing the c
 ## 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRakeshRaj&theme=blue-green">
+    <img  height="210.2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRakeshRaj&theme=blue-green">
     <img src="https://github-readme-stats.vercel.app/api?username=MrRakeshRaj&show_icons=true&theme=radical">
 </p>
 
