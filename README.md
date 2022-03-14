@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.mrrakeshraj.dev/" target="_blank" rel="noreferrer" <img width=”200" height=”200" src=”https://user-images.githubusercontent.com/76464379/156968706-78e698b1-743b-4e72-b0c8-a72443a00e0e.jpg" alt=”my banner"></a>
+  <a href="https://www.mrrakeshraj.dev/" target="_blank" rel="noreferrer" <img width=”200" height=”200" src=”https://wallpaperstock.net/wallpapers/thumbs1/44077wide.png" alt=”my banner"></a>
 </p>
 
 <h3 align="center">
