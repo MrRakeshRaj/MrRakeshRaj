@@ -28,6 +28,7 @@ I vividly recall the sensations of control and power I had after executing the c
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <br>
+<br>
 <img align="left" alt="Vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img align="left" alt="Nuxt JS" src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 
@@ -40,11 +41,8 @@ I vividly recall the sensations of control and power I had after executing the c
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRakeshRaj&theme=blue-green">
-</p>
-
-<p align=center>  
-  <img align=right src="https://github-readme-stats.vercel.app/api?username=MrRakeshRaj&show_icons=true&theme=radical">
+<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRakeshRaj&theme=blue-green">
+<img align=right src="https://github-readme-stats.vercel.app/api?username=MrRakeshRaj&show_icons=true&theme=radical">
 </p>
 
 <br>
