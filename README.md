@@ -5,7 +5,9 @@
 
 <p align="center">
 Leveraging responsive design to catapult Business growth.
-I vividly recall the sensations of control and power I had after executing the code I copied from a website to complete a game. It was curiosity that motivated me to start coding. I love the entire process of developing creative websites, the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. A business background combines with the entrepreneurial spirit can be utilized for aligning profitable goals when programming. Passionate about travel, the outdoors, film, exercising, meeting new people, and exploring the world.
+I vividly recall the sensations of control and power I had after executing the code I copied from a website to complete a game. It was curiosity that motivated me to start coding.
+I create websites using vue and react. Expanding my skills as a Fullstack Developer.
+A business background combines with the entrepreneurial spirit can be utilized for aligning profitable goals when programming. Passionate about travel, the outdoors, film, exercising, meeting new people, and exploring the world.
 </p>
 
 <p align="center">
@@ -22,9 +24,7 @@ I vividly recall the sensations of control and power I had after executing the c
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/Mr_RakeshRaj)**
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: A long time back I thought MSExcel was a new kind of surf excel!! (ikr)
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ---
 
