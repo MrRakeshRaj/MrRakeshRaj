@@ -22,7 +22,8 @@ I vividly recall the sensations of control and power I had after executing the c
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/Mr_RakeshRaj)**
-
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: A long time back I thought MSExcel was a new kind of surf excel!! (ikr)
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ---
