@@ -23,7 +23,7 @@ Digging deeper into ML & AI because its fun.
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/Mr_RakeshRaj)**
-- ⚡ Fun fact: A long time back I thought MSExcel was a new kind of Surf Excel used to wash computers!! (ikr)
+- ⚡ Fun fact: A long time back I thought MSExcel was a new kind of Surf Excel used to wash computers!! (😅 ikr)
 
 ---
 
