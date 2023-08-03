@@ -14,6 +14,9 @@ Digging deeper into ML & AI because its fun.
   <a href="https://twitter.com/Mr_RakeshRaj"><img src="https://img.shields.io/twitter/follow/Mr_RakeshRaj?style=social"></a>
 </p>
 
+
+## Check my Recent post on Medium 
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mrrakeshraj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mrrakeshraj/0" alt="Recent Article 0">
   
 
