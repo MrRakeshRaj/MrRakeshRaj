@@ -13,11 +13,6 @@ Digging deeper into ML & AI because its fun.
   <a href="https://www.linkedin.com/in/mrrakeshraj/"><img src="https://img.shields.io/badge/-Rocky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrrakeshraj/"></a>
   <a href="https://twitter.com/Mr_RakeshRaj"><img src="https://img.shields.io/twitter/follow/Mr_RakeshRaj?style=social"></a>
 </p>
-
-
-## Check my Recent post on Medium 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mrrakeshraj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mrrakeshraj/0" alt="Recent Article 0">
   
 
 ---
@@ -50,6 +45,12 @@ Digging deeper into ML & AI because its fun.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+## Check my Recent post on Medium 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mrrakeshraj/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mrrakeshraj/0" alt="Recent Article 0">
 
 
 
